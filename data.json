@@ -1,0 +1,352 @@
+[
+     {
+          "img1": "https://cdn01.pharmeasy.in/dam/products_otc/L79986/everherb-karela-jamun-juice-helps-maintains-healthy-sugar-levels-helps-in-weight-management-1l-2-1698385993.jpg?dim=480x480&q=75",
+          "title": "Everherb Karela Jamun Juice - Helps Maintains Healthy Sugar Levels -Helps In Weight Management - 1l",
+          "mrp": 399,
+          "strike": 207.48,
+          "discount": 48
+     },
+     {
+          "img1": "https://cdn01.pharmeasy.in/dam/products_otc/S31892/pharmeasy-fish-oil-1000mg-soft-gelatin-60-capsules-2-1707378524.jpg?dim=700x0&dpr=1&q=100",
+          "title": "Pharmeasy Fish Oil 1000mg Soft Gelatin 60 Capsules",
+          "mrp": 356.95,
+          "strike": 649,
+          "discount": 45
+     },
+     {
+          "img1": "https://cdn01.pharmeasy.in/dam/products_otc/K78780/pharmeasy-pill-box-organizer-2-1718186066.jpg?dim=700x0&dpr=1&q=100",
+          "title": "Pharmeasy Pill Box Organizer",
+          "mrp": 499,
+          "strike": 254.49,
+          "discount": 15
+     },
+     {
+          "img1": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1680172150.jpg?dim=700x0&dpr=1&q=100",
+          "title": "Everherb (By Pharmeasy) Aloe Vera Juice With Pulp - Rejuvenates Skin & Hair - 1 Litre Bottle",
+          "mrp": 800,
+          "strike": 720,
+          "discount": 10
+     },
+     {
+          "img1": "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.1-1707825723.jpg?dim=700x0&dpr=1&q=100",
+          "title": "Liveasy Wellness Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of 60",
+          "mrp": 900,
+          "strike": 810,
+          "discount": 10
+     },
+     {
+          "img1": "https://example.com/product6.jpg",
+          "title": "Product 6",
+          "mrp": 1000,
+          "strike": 850,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product7.jpg",
+          "title": "Product 7",
+          "mrp": 1100,
+          "strike": 935,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product8.jpg",
+          "title": "Product 8",
+          "mrp": 1200,
+          "strike": 1020,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product9.jpg",
+          "title": "Product 9",
+          "mrp": 1300,
+          "strike": 1170,
+          "discount": 10
+     },
+     {
+          "img1": "https://example.com/product10.jpg",
+          "title": "Product 10",
+          "mrp": 1400,
+          "strike": 1260,
+          "discount": 10
+     },
+     {
+          "img1": "https://example.com/product11.jpg",
+          "title": "Product 11",
+          "mrp": 1500,
+          "strike": 1275,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product12.jpg",
+          "title": "Product 12",
+          "mrp": 1600,
+          "strike": 1360,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product13.jpg",
+          "title": "Product 13",
+          "mrp": 1700,
+          "strike": 1530,
+          "discount": 10
+     },
+     {
+          "img1": "https://example.com/product14.jpg",
+          "title": "Product 14",
+          "mrp": 1800,
+          "strike": 1440,
+          "discount": 20
+     },
+     {
+          "img1": "https://example.com/product15.jpg",
+          "title": "Product 15",
+          "mrp": 1900,
+          "strike": 1615,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product16.jpg",
+          "title": "Product 16",
+          "mrp": 2000,
+          "strike": 1700,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product17.jpg",
+          "title": "Product 17",
+          "mrp": 2100,
+          "strike": 1785,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product18.jpg",
+          "title": "Product 18",
+          "mrp": 2200,
+          "strike": 1870,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product19.jpg",
+          "title": "Product 19",
+          "mrp": 2300,
+          "strike": 1955,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product20.jpg",
+          "title": "Product 20",
+          "mrp": 2400,
+          "strike": 2040,
+          "discount": 15
+     },
+     {
+          "img1": "https://example.com/product21.jpg",
+          "title": "Product 21",
+          "mrp": 2500,
+          "strike": 1875,
+          "discount": 25
+     },
+     {
+          "img1": "https://example.com/product22.jpg",
+          "title": "Product 22",
+          "mrp": 2600,
+          "strike": 1950,
+          "discount": 25
+     },
+     {
+          "img1": "https://example.com/product23.jpg",
+          "title": "Product 23",
+          "mrp": 2700,
+          "strike": 2025,
+          "discount": 25
+     },
+     {
+          "img1": "https://example.com/product24.jpg",
+          "title": "Product 24",
+          "mrp": 2800,
+          "strike": 2100,
+          "discount": 25
+     },
+     {
+          "img1": "https://example.com/product25.jpg",
+          "title": "Product 25",
+          "mrp": 2900,
+          "strike": 2175,
+          "discount": 25
+     },
+     {
+          "img1": "https://example.com/product26.jpg",
+          "title": "Product 26",
+          "mrp": 3000,
+          "strike": 2250,
+          "discount": 25
+     },
+     {
+          "img1": "https://example.com/product27.jpg",
+          "title": "Product 27",
+          "mrp": 3100,
+          "strike": 2325,
+          "discount": 25
+     },
+     {
+          "img1": "https://example.com/product28.jpg",
+          "title": "Product 28",
+          "mrp": 3200,
+          "strike": 2400,
+          "discount": 25
+     },
+     {
+          "img1": "https://example.com/product29.jpg",
+          "title": "Product 29",
+          "mrp": 3300,
+          "strike": 2475,
+          "discount": 25
+     },
+     {
+          "img1": "https://example.com/product30.jpg",
+          "title": "Product 30",
+          "mrp": 3400,
+          "strike": 2550,
+          "discount": 25
+     },
+     {
+          "img1": "https://example.com/product31.jpg",
+          "title": "Product 31",
+          "mrp": 3500,
+          "strike": 2450,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product32.jpg",
+          "title": "Product 32",
+          "mrp": 3600,
+          "strike": 2520,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product33.jpg",
+          "title": "Product 33",
+          "mrp": 3700,
+          "strike": 2590,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product34.jpg",
+          "title": "Product 34",
+          "mrp": 3800,
+          "strike": 2660,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product35.jpg",
+          "title": "Product 35",
+          "mrp": 3900,
+          "strike": 2730,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product36.jpg",
+          "title": "Product 36",
+          "mrp": 4000,
+          "strike": 2800,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product37.jpg",
+          "title": "Product 37",
+          "mrp": 4100,
+          "strike": 2870,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product38.jpg",
+          "title": "Product 38",
+          "mrp": 4200,
+          "strike": 2940,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product39.jpg",
+          "title": "Product 39",
+          "mrp": 4300,
+          "strike": 3010,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product40.jpg",
+          "title": "Product 40",
+          "mrp": 4400,
+          "strike": 3080,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product41.jpg",
+          "title": "Product 41",
+          "mrp": 4500,
+          "strike": 3150,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product42.jpg",
+          "title": "Product 42",
+          "mrp": 4600,
+          "strike": 3220,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product43.jpg",
+          "title": "Product 43",
+          "mrp": 4700,
+          "strike": 3290,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product44.jpg",
+          "title": "Product 44",
+          "mrp": 4800,
+          "strike": 3360,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product45.jpg",
+          "title": "Product 45",
+          "mrp": 4900,
+          "strike": 3430,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product46.jpg",
+          "title": "Product 46",
+          "mrp": 5000,
+          "strike": 3500,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product47.jpg",
+          "title": "Product 47",
+          "mrp": 5100,
+          "strike": 3570,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product48.jpg",
+          "title": "Product 48",
+          "mrp": 5200,
+          "strike": 3640,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product49.jpg",
+          "title": "Product 49",
+          "mrp": 5300,
+          "strike": 3710,
+          "discount": 30
+     },
+     {
+          "img1": "https://example.com/product50.jpg",
+          "title": "Product 50",
+          "mrp": 5400,
+          "strike": 3780,
+          "discount": 30
+     }
+]
