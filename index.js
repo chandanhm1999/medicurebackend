@@ -7,9 +7,8 @@ const { dbconnection } = require("./config/db");
 const { GridDataRoute } = require("./routes/gridData");
 
 const app = express();
-const port = 8080;
+const port = process.env.PORT || 8080; // ✅ Fix for Render
 
-// ✅ Allow both deployed and local frontend
 app.use(
   cors({
     origin: ["https://medicurefrontend.vercel.app", "http://localhost:3000"],
@@ -19,10 +18,9 @@ app.use(
   })
 );
 
-// ✅ Handle preflight OPTIONS requests globally
 app.options("*", cors());
-
 app.use(express.json());
+
 app.use("/login", LoginRoute);
 app.use("/signup", SignupRoute);
 app.use("/products", ProductRoute);
@@ -32,10 +30,10 @@ app.get("/", (req, res) => res.send("Home Route"));
 
 app.listen(port, async () => {
   try {
-    await dbconnection; // Ensure DB connection is awaited
+    await dbconnection;
     console.log({ msg: "connected to database" });
   } catch (err) {
     console.log(err);
   }
-  console.log(`app listening to port ${port}!`);
+  console.log(`app listening on port ${port}`);
 });
